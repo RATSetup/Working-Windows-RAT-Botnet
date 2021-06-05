@@ -1,2 +1,32 @@
 # Working-Windows-RAT-Botnet
-Remote Administration Tools and Setups for Windows | Connect on Android / iOS / Mac / Linux / Windows | https://discord.gg/dk5rRfd6gD
+Windows Remote Administration Tools and HTTP Botnet Setups for Windows | Connect on Android / iOS / Mac / Linux / Windows
+JOIN OUR DISCORD GROUP | https://discord.gg/dk5rRfd6gD
+CHECK OUT OUR WEBSITE | https://ratkings.net/
+Silent DOC PDF XLS Office Word Excel Builds Bypass Gmail & More 
+Help How To Use With Real Support
+Working 100%
+Updated .NET C# And Native C Code
+Open Source And Paid Software
+100% FUD (FULLY UNDETECTABLE) PRIVATE MANUAL CRYPTS
+Best RAT and Botnets available
+FREE BULLETPROOF RDP / VPS
+FREE Randomized and Secure DNS
+PASSWORD RECOVERY / STEALER / STEALING
+HVNC / HRDP
+REMOTE DESKTOP
+OFFLINE AND ONLINE KEYLOG / KEYLOGGING / KEYLOGGER
+REVERSE SOCKS4 AND SOCKS5 PROXY / PROXIES
+UNDETECTED START UP
+SSL / TOR CONNECTION
+XMR MINER / MINING
+HIDDEN BROWSER
+UAC ADMIN EXPLOIT
+FILE MANAGER
+VIEW DESKTOP / WEBCAM
+LISTEN TO AUDIO
+FUD BINDER
+PROTECT PROCESS
+KILL AND EXCLUDE FROM WD / WINDOWS DEFENDER BYPASS
+CRYPTO CLIPPER / CLIPBOARD LOGGER
+AUTOMATIC TASKS
+EASY TO SPREAD
